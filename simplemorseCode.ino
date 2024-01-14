@@ -57,8 +57,9 @@ void beepDot()
 void beepDash()
 {
   tone(buzzerPin,1000,1000);
-  delay(400);
+  delay(250);
   noTone(buzzerPin);
+  delay(100);
 }
 
 
