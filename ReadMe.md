@@ -10,7 +10,7 @@ This Arduino-based Morse Code translator reads text input from a serial connecti
 
 ## Hardware Requirements
 - Arduino Board (e.g., Arduino Uno)
-- Buzzer
+- Buzzer (Code is for Active Buzzer however Passive Buzzer can be used with minor adjustments).
 - Jumper wires
 - Breadboard (optional)
 - LED (optional)
