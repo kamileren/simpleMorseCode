@@ -1,7 +1,7 @@
 # Morse Code Translator
 
 ## Overview
-This Arduino-based Morse Code translator reads text input from a serial connection and converts it into Morse code. The converted code is then output as sound using a buzzer.
+This Arduino-based Morse Code translator reads text input from a serial connection and converts it into Morse code. The converted code is then output as sound using a buzzer optionally with light as well.
 
 ## Features
 - Text-to-Morse Conversion: Converts input text into Morse code.
